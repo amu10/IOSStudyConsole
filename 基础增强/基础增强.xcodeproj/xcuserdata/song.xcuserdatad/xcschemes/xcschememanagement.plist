@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>KVC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>KVO.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>代理模式.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>内存管理.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>基础增强.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E402B3101A56AB6000E9D429</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E402B3221A56D55A00E9D429</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E402B3341A56DD7100E9D429</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4B47E211A57A83E00677F7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4B47E321A57B1BA00677F7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
